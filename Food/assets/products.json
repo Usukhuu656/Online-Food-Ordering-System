@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "title": "Californian Chicken Burger",
+        "price": 15.55,
+        "description": "Chicken Leg, Burger Bun, Jalapenos, Greens, Cheese Slice, Gouda Cheese Sauce, Peri Peri Thousand Island Sauce,, Onion, Tomato, Lettuce, Butter",
+        "category": "Burger",
+        "image": "assets/Food/californio_double_burger.png",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "Cheese Bacon Burger",
+        "price": 12.5,
+        "description": "Bacon, sharp cheddar cheese, worcestershire sauce, bun",
+        "category": "Burger",
+        "image": "assets/Food/bacon_cheese_burger.png",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "Classic Chicken Burger",
+        "price": 10.5,
+        "description": "Chicken Patty, Burger Bun, Mix Lettuce, Tomato, Cheese Sauce, Jalapeno, Cheese",
+        "category": "Burger",
+        "image": "assets/Food/classic_chicken_burger.png",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "Cheddar Onion Chicken Burger",
+        "price": 13.2,
+        "description": "Chicken Patty, Burger Bun, Peri Peri Mayo, Mix Lettuce, Olives, Cheese Sauce, Cheddar Onion Mix",
+        "category": "Burger",
+        "image": "assets/Food/cheddar_onion_burger.png",
+        "rating": {
+            "rate": 3.6,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "Veggie Burger",
+        "price": 10.6,
+        "description": "Vegetable, Peel, Potato, Tomato, Lettuce, Cheese, Onion",
+        "category": "Burger",
+        "image": "assets/Food/veggie_burger.png",
+        "rating": {
+            "rate": 2.5,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "Hawaiian Pizza",
+        "price": 25.5,
+        "description": "Bacon, Pan, Pineapple Rings, Pizza Sauce, Mozzeralla Cheese, Onion",
+        "category": "Pizza",
+        "image": "assets/Food/hawaiian_pizza.png",
+        "rating": {
+            "rate": 4.6,
+            "count": 70
+        }
+    },
+    {
+        "id": 7,
+        "title": "Mozzarella Pizza",
+        "price": 19.6,
+        "description": "Tomato, Basil, Mozzarella, Pan, Pizza Sauce",
+        "category": "Pizza",
+        "image": "assets/Food/mozzarella_pizza.png",
+        "rating": {
+            "rate": 3.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 8,
+        "title": "Mushroom Pizza",
+        "price": 17.99,
+        "description": "Mushroom, Pan, Pizza Sauce, Mozzarella, Lemon, Chives",
+        "category": "Pizza",
+        "image": "assets/Food/mushroom_pizza.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 100
+        }
+    },
+    {
+        "id": 9,
+        "title": "Classic Cheese Pizza",
+        "price": 17.8,
+        "description": "Pizza Sauce, Mozzarella, Basil, Oregano Leaves, Pan",
+        "category": "Pizza",
+        "image": "assets/Food/classic_chicken_burger.png",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "title": "Vegetarian Pizza",
+        "price": 16.5,
+        "description": "Bell Peppers, Briny Artichokes, Onion, Basil, Mozzarella, Pan, Pizza Sauce",
+        "category": "Pizza",
+        "image": "assets/Food/vegetarian_pizza.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 11,
+        "title": "Spring Pea Soup",
+        "price": 14.5,
+        "description": "Vegan Margarine, Onion, Vegetable Broth, Frozen Peas, Leaf Parsley, Pepper, Coconut Cream",
+        "category": "Soup",
+        "image": "assets/Food/spring_pea_soup.png",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 12,
+        "title": "Manhattan Clam Chowder",
+        "price": 18.5,
+        "description": "Bacon, Onion, Celery, Carrot, Garlic, Jar Clam Juice, Tomato, Potato, Red Pepper",
+        "category": "Soup",
+        "image": "assets/Food/clam_chowder.png",
+        "rating": {
+            "rate": 4.8,
+            "count": 400
+        }
+    },
+    {
+        "id": 13,
+        "title": "Italian Grinder Sandwich",
+        "price": 17.6,
+        "description": "Italian Seasoning, Pepper, Red Wine Vinegar, Onion, Cheese, Lettuce-Shredded, Itilian Bread, Salami, Ham, Turkey Breast, Tomato",
+        "category": "Sandwich",
+        "image": "assets/Food/grinder_sandwich.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 250
+        }
+    },
+    {
+        "id": 14,
+        "title": "Club Sandwich",
+        "price": 8.5,
+        "description": "Grain Bread, Capsicum, Garlic, Pepper, Carrot, Tomato, Cabbage, Onion, Mayonnaise",
+        "category": "Sandwich",
+        "image": "assets/Food/club_sandwich.png",
+        "rating": {
+            "rate": 2.2,
+            "count": 140
+        }
+    },
+    {
+        "id": 15,
+        "title": "Ham Sandwich",
+        "price": 16.99,
+        "description": "Ham, Mayonnaise, Mustard, Honey, Bread, Tomato, Pickles",
+        "category": "Sandwich",
+        "image": "assets/Food/ham_sandwich.png",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 16,
+        "title": "Grilled Steak",
+        "price": 22.95,
+        "description": "Steak, Kosher Salt, Black Pepper, Butter, Lemon, Bread, Pepper",
+        "category": "Meat",
+        "image": "assets/Food/steak.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 340
+        }
+    },
+    {
+        "id": 17,
+        "title": "Roast Lamb Leg with Gravy",
+        "price": 39.99,
+        "description": "Rosemary, Lamb Leg, Garlic, Onion, Pepper, Flour, Beef Stock, Potato",
+        "category": "Meat",
+        "image": "assets/Food/lamb_leg.png",
+        "rating": {
+            "rate": 3.8,
+            "count": 679
+        }
+    },
+    {
+        "id": 18,
+        "title": "Spaghetti alla Carbonara",
+        "price": 9.85,
+        "description": "Spaghetti Pasta, Bacon, Pepper, Egg, Romano Cheese",
+        "category": "Pasta",
+        "image": "assets/Food/spaghetti_pasta.png",
+        "rating": {
+            "rate": 4.7,
+            "count": 130
+        }
+    },
+    {
+        "id": 19,
+        "title": "Meatball Pasta",
+        "price": 12.95,
+        "description": "Onion, Tomato, Dried mint, Egg, Pasta, Italian Breadcrumbs, Meatball",
+        "category": "Pasta",
+        "image": "assets/Food/meatball_pasta.png",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    },
+    {
+        "id": 20,
+        "title": "Pasta alla Norma",
+        "price": 12.99,
+        "description": "Garlic, Tomato Paste, Oregano, Basil, Peppper, Pasta",
+        "category": "Pasta",
+        "image": "assets/Food/norma_pasta.png",
+        "rating": {
+            "rate": 3.6,
+            "count": 145
+        }
+    }
+]
